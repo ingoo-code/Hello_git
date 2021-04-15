@@ -17,3 +17,15 @@ git설치가 완료되었다면.
 git config --global user.name "name"
 git config --global user.email "email@email.com"
 </code></pre>
+
+실행한뒤
+
+<pre><code>
+git config --list 
+</code></pre>
+
+실행시켜 결과물을 확인해주세요.
+
+
+
+
