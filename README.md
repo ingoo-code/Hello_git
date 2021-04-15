@@ -53,5 +53,12 @@ git init 을 실행 시켜야합니다.
 vscode 활성화 상태에서. Ctrl + Shift + \` ` (Javascipt에서 배웠던 템플릿 이터널에 사용했던 )`
 ***
 
+이후 터미널 창이 열렸다면. 
+```
+git init
+git remote add origin [URL]
+```
 
+하시면 
+<img src="https://github.com/ingoo-code/Hello_git/blob/master/images/git_login.png">
 
