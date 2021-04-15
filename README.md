@@ -26,10 +26,12 @@ git config --list
 
 실행시켜 결과물을 확인해주세요.
 
-그다음 "Visual Studio Code" 를 실행시킵니다.
+그다음 "Visual Studio Code" 이하 vscode를 실행시킵니다.
 앞으로 작업할 workspace[임의파일] 폴더 안에.
 
-git init을 실행 시켜야합니다.
+```
+git init 을 실행 시켜야합니다.
+```
 
 ***
 하지만 터미널을 처음 사용하시기떄문에. 간단한 터미널 명령어를 알려드릴게요.
@@ -44,5 +46,11 @@ git init을 실행 시켜야합니다.
 
 ***
 
+
+간단한 터미널 명령어를 설명만 해드렸고.
+이번엔 vscode에서 터미널창을 여는방법을 알려드릴게요.
+
+vscode 활성화 상태에서. Ctrl + <Shift> + ` (Javascipt에서 배웠던 템플릿 이터널에 사용했던 )
+`글자`
 
 
