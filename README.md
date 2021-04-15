@@ -26,6 +26,22 @@ git config --list
 
 실행시켜 결과물을 확인해주세요.
 
+그다음 "Visual Studio Code" 를 실행시킵니다.
+앞으로 작업할 workspace[임의파일] 폴더 안에.
+
+git init을 실행 시켜야합니다.
+
+하지만 터미널을 처음 사용하시기떄문에. 간단한 터미널 명령어를 알려드릴게요.
+
+ls : 현 디렉토리 파일목록 보기
+cd : 디렉토리 이동 명령어 
+    ex ) cd .. 폴더뒤로가기 
+         cd ./images  현폴더에서 images 폴더로 이동하기
+pwd: 현 위치 
+     ex ) 윈도우 환경이라면 
+          C:\Users\PC-01\Documents\vscode\workspace\Hello_git2 이런식
+
+
 
 
 
