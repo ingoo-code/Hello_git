@@ -24,33 +24,34 @@ git config --global user.email "email@email.com"
 git config --list 
 </code></pre>
 
-실행시켜 결과물을 확인해주세요.
+실행시켜 결과물을 확인해주세요.   
 
-그다음 "Visual Studio Code" 이하 vscode를 실행시킵니다.
-앞으로 작업할 workspace[임의파일] 폴더 안에.
+그다음 "Visual Studio Code" 이하 vscode를 실행시킵니다.   
+앞으로 작업할 workspace[임의파일] 폴더 안에.   
 
 ```
 git init 을 실행 시켜야합니다.
 ```
 
 ***
-하지만 터미널을 처음 사용하시기떄문에. 간단한 터미널 명령어를 알려드릴게요.
+하지만 터미널을 처음 사용하시기떄문에. 간단한 터미널    명령어를 알려드릴게요.   
 
-1. ls : 현 디렉토리 파일목록 보기
-2. cd : 디렉토리 이동 명령어 
+1. **ls** : 현 디렉토리 파일목록 보기
+2. **cd** : 디렉토리 이동 명령어 
     ex ) cd .. 폴더뒤로가기 
          cd ./images  현폴더에서 images 폴더로 이동하기
-3. pwd: 현 위치 
+3. **pwd**: 현 위치 
      ex ) 윈도우 환경이라면 
           C:\Users\PC-01\Documents\vscode\workspace\Hello_git2 이런식
 
 ***
 
 
-간단한 터미널 명령어를 설명만 해드렸고.
-이번엔 vscode에서 터미널창을 여는방법을 알려드릴게요.
+간단한 터미널 명령어를 설명만 해드렸고.   
+이번엔 vscode에서 터미널창을 여는방법을 알려드릴게요.   
 
-vscode 활성화 상태에서. Ctrl + <Shift> + ` (Javascipt에서 배웠던 템플릿 이터널에 사용했던 )
-`글자`
+vscode 활성화 상태에서. Ctrl + Shift + \` ` (Javascipt에서 배웠던 템플릿 이터널에 사용했던 )`
+***
+
 
 
