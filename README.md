@@ -26,6 +26,8 @@ git config --list
 
 실행시켜 결과물을 확인해주세요.   
 
+## 2. Visual Studio Code 에서 Git 사용하기.
+
 그다음 "Visual Studio Code" 이하 vscode를 실행시킵니다.   
 앞으로 작업할 workspace[임의파일] 폴더 안에.   
 
@@ -59,6 +61,37 @@ git init
 git remote add origin [URL]
 ```
 
-하시면 
-<img src="https://github.com/ingoo-code/Hello_git/blob/master/images/git_login.png">
+하시면   
+
+<img src="https://github.com/ingoo-code/Hello_git/blob/master/images/git_login.png">   
+
+창이 뜨게되고 
+
+> [Sign in with your browser]   
+ 버튼클릭 하시면   
+
+<img src="https://github.com/ingoo-code/Hello_git/blob/master/images/Sign_in_with_your_browser.png">
+
+에서 초록색 버튼 클릭하시면 연결이 완료됩니다.  
+
+이후 **vscode**에서 **index.html** 파일을 생성한뒤.  
+
+**Body**영역에서 **Hello World** 를 작성한다음에.   
+
+
+터미널 창에서 
+
+```
+git add .
+git commit -m "커밋할 내용설명 영역"
+git push origin master
+```
+
+하시고 나의 저장소에서. **index.html** 파일이 생성되었는지.   
+확인해보세요.
+
+
+
+
+
 
